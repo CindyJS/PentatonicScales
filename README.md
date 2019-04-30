@@ -9,7 +9,7 @@ It is based on the [CindyJS](https://cindyjs.org)-framework.
 
 Just download everything and put in on a webserver and open `index.html`.
 
-An [online version](https://raw.githack.com/CindyJS/ScaleLab/master/index.html) of this repository is served through githack.com.  Another version of this widget can be found on [science-to-touch.com](http://science-to-touch.com/LaLaLab/ScaleLab/).
+An [online version](https://raw.githack.com/CindyJS/PentatonicScales/master/index.html) of this repository is served through githack.com.  Another version of this widget can be found on [science-to-touch.com](http://science-to-touch.com/LaLaLab/PentatonicScales/).
 
 For exhibits, it is recommended to use the [kiosk-browser](https://github.com/IMAGINARY/kiosk-browser) and [xbanish-hide](https://github.com/IMAGINARY/xbanish-hide) on a minified desktop environment such as [Openbox](http://openbox.org/wiki/Main_Page).
 
