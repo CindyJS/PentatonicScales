@@ -3,6 +3,8 @@
 This is part of the Lalalab exhibition of [IMAGINARY](https://lalalab.imaginary.org).
 The exhibit transform various pieces to a user-specified Pentatonic Scale.
 
+![Screenshot of PentatonicScales](P.png)
+
 It is based on the [CindyJS](https://cindyjs.org)-framework.
 
 ## Installation
