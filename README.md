@@ -16,8 +16,8 @@ For exhibits, it is recommended to use the [kiosk-browser](https://github.com/IM
 ## Author & License
 Created by [Jürgen Richter-Gebert](https://geo.ma.tum.de/en/people/juergen-richter-gebert.html).
 
-This work (* without common) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This work (everything but the folder `common`) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-The framework CindyJS (common/js) is licensed under the Apache License 2.0.
+The framework CindyJS (`common/js`) is licensed under the Apache License 2.0.
 
-The soundfonts (common/sf) are made by Benjamin Gleitzman (gleitz@mit.edu) (see [corresponding License](common/sf/LICENSE.txt)).
+The soundfonts (`common/sf`) are made by Benjamin Gleitzman (gleitz@mit.edu) (see [corresponding License](common/sf/LICENSE.txt)).
